@@ -1,0 +1,2 @@
+#!/bin/bash
+DEBUG=1 poetry run pytest --cov=src --cov-report=html
