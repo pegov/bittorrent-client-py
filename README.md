@@ -16,5 +16,5 @@ poetry run python -m src [-h] [-v] [-l] [-j] <torrent>
 ```
 ## References
 
-https://www.bittorrent.org/beps/bep_0003.html
-https://wiki.theory.org/BitTorrentSpecification
+- https://www.bittorrent.org/beps/bep_0003.html
+- https://wiki.theory.org/BitTorrentSpecification
